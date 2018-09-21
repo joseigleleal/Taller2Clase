@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".AgregarMovil" />
-        <activity android:name=".Reportes"></activity>
+        <activity
+            android:name=".Reportes"
+            android:label="@string/title_activity_reportes"></activity>
     </application>
 
 </manifest>
